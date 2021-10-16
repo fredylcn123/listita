@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-chno="1"
-http://tv.televisionxinternet.com:25461/series/Gostreaming/Apoyanos/33213.mp4
+https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-chno="2"
-http://tv.televisionxinternet.com:25461/live/Gostreaming/Apoyanos/6.m3u8
+https://sc.id-tv.kz/Cinema.m3u8
